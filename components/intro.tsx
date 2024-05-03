@@ -10,7 +10,7 @@ import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 import { BsHeartFill } from "react-icons/bs";
-import tanisha from '@/app/assets/tanisha.jpg'
+import bhav from '@/app/assets/bhav.jpg'
 
 
 export default function Intro() {
@@ -34,7 +34,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src={tanisha}
+              src={bhav}
               alt="Ricardo portrait"
               width="192"
               height="192"
@@ -53,8 +53,8 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-         <span className="font-bold text-sky-500 font-mono">तनीषा {" "} </span> 
-        मैंने आपके लिए एक खत लिखा है
+         <span className="font-bold text-sky-500 font-mono">Bhavikaaaa {" "} </span> 
+        Hey Cutieeee
       
        
       </motion.h1>
@@ -71,7 +71,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/tanisha_.pdf"
+          href=""
           download
         >
           Download Khat{" "}

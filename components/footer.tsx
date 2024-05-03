@@ -8,7 +8,7 @@ export default function Footer() {
         Made By Tushar <FaHeart className="text-red-600" />
       </small>
       <p className="text-xs">
-        This is Made to ask <span className="font-semibold text-red-600">Tanisha</span>  out on date
+        This is Made for <span className="font-semibold text-red-600">Bhavika</span>  out on date
       </p>
     </footer>
   );
