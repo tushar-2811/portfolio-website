@@ -19,20 +19,8 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am living in Delhi for past 3 years, Now in{" "}
-        <span className="font-medium">Janakpuri</span>, I decided to pursue my
-        passion for programming. I enrolled in a Engineering College,{" "}
-        <span className="font-medium">I can say that I am an Self-Taught Programmer.</span> {""}
-        <span className="italic">In Personal Life , I am funny and Humor is my thing,</span> {""}
-        I feel like one Should Live his/her life end to end and should not leave any room for regret !!  <span className="underline"></span> 
-        {" "}
-        <span className="font-medium flex flex-col">
-          Cool , Funny , Very Spontaneous , adventurous {" "}
-        </span>
-       {" "}
-        <span className="font-medium flex flex-col text-red-500 ">  
-         ( Sorry I used your photograph here without your permission )
-        </span>
+        <span className="font-medium">In the grand tapestry of existence, you are the rarest gem, a celestial jewel that outshines all others with your grace and magnificence.</span>
+       
         
      
       </p>
