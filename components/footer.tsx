@@ -8,7 +8,7 @@ export default function Footer() {
         Made By Tushar <FaHeart className="text-red-600" />
       </small>
       <p className="text-xs">
-        This is Made for <span className="font-semibold text-red-600">Bhavika</span>to ask her out on date
+        This is Made for <span className="font-semibold text-red-600">Bhavika</span> to ask her out on date
       </p>
     </footer>
   );

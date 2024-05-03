@@ -17,7 +17,7 @@ export default function About() {
       transition={{ delay: 0.175 }}
       id="about"
     >
-      <SectionHeading>About me</SectionHeading>
+      <SectionHeading>Beautiful you</SectionHeading>
       <p className="mb-3">
         <span className="font-medium">In the grand tapestry of existence, you are the rarest gem, a celestial jewel that outshines all others with your grace and magnificence.</span>
        
