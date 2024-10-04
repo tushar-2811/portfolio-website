@@ -10,7 +10,7 @@ import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 import { BsHeartFill } from "react-icons/bs";
-import bhav from '@/app/assets/bhav.jpg'
+import shruti from '@/app/assets/shruti.png'
 
 
 export default function Intro() {
@@ -34,7 +34,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src={bhav}
+              src={shruti}
               alt="Ricardo portrait"
               width="192"
               height="192"
@@ -53,7 +53,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-         <span className="font-bold text-sky-500 font-mono">Bhavikaaaa {" "} </span> 
+         <span className="font-bold text-sky-500 font-mono">Shruti, {" "} </span> 
         Hey Cutieeee
       
        
